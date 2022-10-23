@@ -1,0 +1,8 @@
+.formContainer{
+    display: block;
+    z-index: 2; 
+    
+}
+form{
+    margin: auto;
+}
