@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactFormMern/static/css/main.95bfbf0e.css",
-    "main.js": "/reactFormMern/static/js/main.bbb66f3b.js",
+    "main.js": "/reactFormMern/static/js/main.713ffced.js",
     "static/media/room.mp4": "/reactFormMern/static/media/room.9f5229f59216ea9dbbe2.mp4",
     "static/media/dude.png": "/reactFormMern/static/media/dude.3d780777c8609a34077a.png",
     "index.html": "/reactFormMern/index.html",
     "main.95bfbf0e.css.map": "/reactFormMern/static/css/main.95bfbf0e.css.map",
-    "main.bbb66f3b.js.map": "/reactFormMern/static/js/main.bbb66f3b.js.map"
+    "main.713ffced.js.map": "/reactFormMern/static/js/main.713ffced.js.map"
   },
   "entrypoints": [
     "static/css/main.95bfbf0e.css",
-    "static/js/main.bbb66f3b.js"
+    "static/js/main.713ffced.js"
   ]
 }
